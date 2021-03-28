@@ -1,6 +1,4 @@
 #RRinc
-
-=================================================================================================
                             COPYRIGHT RR INCORPORATED EST. 2021
 =================================================================================================
 Before running the program you must install matplotlib using the command: pip install matplotlib
