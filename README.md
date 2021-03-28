@@ -1,9 +1,9 @@
 #RRinc
-                            COPYRIGHT RR INCORPORATED EST. 2021
+                                  RR INCORPORATED EST. 2021
 =================================================================================================
 How to enable doctors to gain real-time access to a patient’s vital signs from anywhere in the world?
 
-Before running the program you must install matplotlib using the command: pip install matplotlib
+Before running the program you must install matplotlib using the command: pip install matplotlib.
 This build is implemented only for x86_64 version of windows (windows 10).
 
 The file can be run by executing "python3 hackathon.py XXX" where XXX is either "doctor" or "patient".
