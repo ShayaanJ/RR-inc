@@ -1,7 +1,7 @@
+How to enable doctors to gain real-time access to a patient’s vital signs from anywhere in the world?
 =================================================================================================
                             COPYRIGHT RR INCORPORATED EST. 2021
 =================================================================================================
-How to enable doctors to gain real-time access to a patient’s vital signs from anywhere in the world?
 
 Before running the program you must install matplotlib using the command: pip install matplotlib
 This build is implemented only for x86_64 version of windows (windows 10).
