@@ -17,6 +17,6 @@ and then plot the data of the sensors against time.
 Functions other than afore mentioned threads:
 animate: uses matlab library to plot the sensor data against time updating it in real time. We took some help in library documentation for animating the real time sensors.
 
-We were not able to fully able to implement peer to peer encryption using private and public keys, and have commented it out.
+We were not able to fully implement peer to peer encryption using private and public keys, and have commented it out.
 
 For legal concerns contact RR Legal Division.
